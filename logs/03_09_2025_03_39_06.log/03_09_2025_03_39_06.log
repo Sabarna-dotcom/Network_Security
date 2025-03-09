@@ -1,0 +1,6 @@
+[ 2025-03-09 03:39:17,134 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-09 03:39:17,140 ] 107 dagshub - INFO - Accessing as Sabarna-dotcom
+[ 2025-03-09 03:39:17,812 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Sabarna-dotcom/Network_Security "HTTP/1.1 200 OK"
+[ 2025-03-09 03:39:18,500 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-09 03:39:18,506 ] 107 dagshub - INFO - Initialized MLflow to track repo "Sabarna-dotcom/Network_Security"
+[ 2025-03-09 03:39:18,509 ] 107 dagshub - INFO - Repository Sabarna-dotcom/Network_Security initialized!
